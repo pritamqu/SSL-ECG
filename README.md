@@ -1,4 +1,4 @@
-# Tensorflow (v1.14.0) implementation for "Self-supervised ECG Representation Learning for Emotion Recognition"
+# "Self-supervised ECG Representation Learning for Emotion Recognition" (TF v1.14.0)
 
 Folllowing are the papers associated with this project: 
 
