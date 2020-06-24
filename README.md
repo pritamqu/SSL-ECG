@@ -20,7 +20,6 @@ Authors: [Sarkar](https://www.pritamsarkar.com/) and [Etemad](https://www.aliete
         - *summaries*: Tensorboard summaries will be saved here.
         - *output*: Loss and Results will be stored here.
         - *models*: Self-supervised models will be stored here.
-
 <br />
 
 - **load_model:** directory contains the pretrained self-supervised model and sample codes to use it.
