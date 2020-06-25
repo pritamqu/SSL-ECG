@@ -25,5 +25,5 @@ Authors: [Sarkar](https://www.pritamsarkar.com/) and [Etemad](https://www.aliete
 - **load_model:** directory contains the pretrained self-supervised model and sample codes to use it.
     - The saved pretrained model can be used in order to extract features from raw ECG signals, which can be further used to perform downstream tasks.
     - We provide sample code for the above: [extract_features.py](./load_model/extract_features.py).
-    - In order to extract features, the input arrays must be in format of *batch_size x window_size*. We selected *window_size of 10 seconds X 256 Hz = 2560 samples*, where 256 Hz refers to the sampling rate. A sample ECG signal is given [here](https://gitlab.com/pritamqu/SSL-ECG/-/blob/master/load_model/sample_ecg.npy).
+    - In order to extract features, the input arrays must be in format of *batch_size x window_size*. We selected *window_size of 10 seconds X 256 Hz = 2560 samples*, where 256 Hz refers to the sampling rate. A sample ECG signal is given [here](./load_model/sample_ecg.npy).
     - We also provide sample code in order to save the weights of our pretrained network: [save_weights.py](./load_model/save_weights.py)
