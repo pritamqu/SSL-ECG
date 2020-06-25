@@ -52,7 +52,7 @@ Please cite our papers for any purpose of usage.
     primaryClass={eess.SP}
 }
 
-@INPROCEEDINGS{9053985,
+@INPROCEEDINGS{sarkar2019selfsupervised,
   author={P. {Sarkar} and A. {Etemad}},
   booktitle={ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
   title={Self-Supervised Learning for ECG-Based Emotion Recognition}, 
