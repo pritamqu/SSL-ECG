@@ -18,8 +18,9 @@ Authors: [Sarkar](https://www.pritamsarkar.com/) and [Etemad](https://www.aliete
 - TensorBoard = 1.14.0
 - Scikit-Learn = 0.22.2
 - NumPy = 1.18.4
-- tqdm = 4.36.1
-- pandas = 0.25.1
+- Tqdm = 4.36.1
+- Pandas = 0.25.1
+- Mlxtend = 0.17.0
 
 ## Usage
 
