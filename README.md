@@ -62,3 +62,6 @@ Please cite our papers for any purpose of usage.
   pages={3217-3221},}
   
 ```
+
+### Question
+If you have any query or want to chat with me regarding our work please reach me at <pritam.sarkar@queensu.ca> or connect me in [LinkedIN](https://www.linkedin.com/in/sarkarpritam/).
