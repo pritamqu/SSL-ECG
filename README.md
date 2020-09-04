@@ -2,7 +2,7 @@
 
 Folllowing are the papers associated with this project: 
 
-**Journal version:** [Self-supervised ECG Representation Learning for Emotion Recognition](https://arxiv.org/abs/2002.03898)
+**Journal version:** [Self-supervised ECG Representation Learning for Emotion Recognition](https://ieeexplore.ieee.org/document/9161416)
 Authors: [Sarkar](https://www.pritamsarkar.com/) and [Etemad](https://www.alietemad.com/)
 
 **Conference version:** [Self-Supervised Learning for ECG-Based Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9053985)
