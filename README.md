@@ -39,6 +39,14 @@ Authors: [Sarkar](https://www.pritamsarkar.com/) and [Etemad](https://www.aliete
     - In order to extract features, the input arrays must be in format of *batch_size x window_size*. We selected *window_size of 10 seconds X 256 Hz = 2560 samples*, where 256 Hz refers to the sampling rate. A sample ECG signal is given [here](./load_model/sample_ecg.npy).
     - We also provide sample code in order to save the weights of our pretrained network: [save_weights.py](./load_model/save_weights.py)
 
+- **tips:**
+    - Try using larger batch size in the downstream task, that would boost performance. 
+    - Try full fine-tuning rather than fc-tuning (which I did) to boost up performance.
+    - Try using larger batch for pre-training as well, this may help!
+
+- **note:**
+    - I have received few emails and messages regarding missing processed data. As per the EULA of the original dataset, I am not allowed to share the processed data, so I could not upload them in this repo. I processed the datasets in Matlab separately, those codes are a bit haphazard manner, and I need to organize them before I can share. I will try to do that in future. 
+
 ## Citation
 
 Please cite our papers for any purpose of usage.
