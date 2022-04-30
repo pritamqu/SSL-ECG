@@ -45,7 +45,7 @@ Authors: [Sarkar](https://www.pritamsarkar.com/) and [Etemad](https://www.aliete
     - Try using larger batch for pre-training as well, this may help!
 
 - **note:**
-    - I have received few emails and messages regarding missing processed data. As per the EULA of the original dataset, I am not allowed to share the processed data, so I could not upload them in this repo. I processed the datasets in Matlab separately, those codes are a bit haphazard manner, and I need to organize them before I can share. I will try to do that in future. 
+    - I have received few emails and messages regarding missing processed data. As per the EULA of the original dataset, I am not allowed to share the processed data, so I could not upload them in this repo. Originally, I processed the datasets in Matlab separately, I added separately the preprocessing codes in written in Python, you may use this as reference: https://github.com/pritamqu/SSL-ECG/issues/1#issuecomment-1114038816.
 
 ## Citation
 
